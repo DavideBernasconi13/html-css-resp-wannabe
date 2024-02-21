@@ -193,3 +193,9 @@ img {
         line-height: 1.2;
     }
 }
+
+@media screen and (max-width: 1160px) and (min-width: 768px) {
+    .container {
+        max-width: 768px;
+    }
+}
